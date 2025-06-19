@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-18)
+## Unreleased (2025-06-19)
+
+<section class="features">
+
+### Features
+
+-   [`b02b1dc`](https://github.com/stdlib-js/stdlib/commit/b02b1dcda79311b83e803051d3f396f2b3d43874) - add C implementation for `stats/base/dists/chi/pdf` [(#4526)](https://github.com/stdlib-js/stdlib/pull/4526)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3495](https://github.com/stdlib-js/stdlib/issues/3495)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`b02b1dc`](https://github.com/stdlib-js/stdlib/commit/b02b1dcda79311b83e803051d3f396f2b3d43874) - **feat:** add C implementation for `stats/base/dists/chi/pdf` [(#4526)](https://github.com/stdlib-js/stdlib/pull/4526) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
 -   [`b51a457`](https://github.com/stdlib-js/stdlib/commit/b51a457474fb3527c628001639fc4e1174ed45e4) - **bench:** update random value generation [(#7010)](https://github.com/stdlib-js/stdlib/pull/7010) _(by Harsh)_
 -   [`828cfd5`](https://github.com/stdlib-js/stdlib/commit/828cfd594d771e9d1ba2af3e80af0021f0b7fd8f) - **docs:** replace manual `for` loop in examples [(#6922)](https://github.com/stdlib-js/stdlib/pull/6922) _(by Harsh)_
 -   [`b3540a8`](https://github.com/stdlib-js/stdlib/commit/b3540a8ffa4c9cd3122e660a68dcbe286330b5e6) - **bench:** refactor random number generation in `stats/base/dists/chi` [(#4853)](https://github.com/stdlib-js/stdlib/pull/4853) _(by Karan Anand)_
@@ -26,10 +49,12 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aadish Jain
 -   Harsh
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
