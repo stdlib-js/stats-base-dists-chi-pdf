@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3495](https://github.com/stdlib-js/stdlib/issues/3495)
+[#3495](https://github.com/stdlib-js/stdlib/issues/3495), [#7415](https://github.com/stdlib-js/stdlib/issues/7415)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a4464fb`](https://github.com/stdlib-js/stdlib/commit/a4464fbc05304fd3607b4c0471734a239b5451cb) - **chore:** address commit comments for commit `b02b1dc` [(#7423)](https://github.com/stdlib-js/stdlib/pull/7423) _(by Lokesh Ranjan)_
 -   [`354a54b`](https://github.com/stdlib-js/stdlib/commit/354a54b69858eae98fb4b757d72ca3dde5ec1f4a) - **test:** match tolerance used for JS implementation _(by Philipp Burckhardt)_
 -   [`b02b1dc`](https://github.com/stdlib-js/stdlib/commit/b02b1dcda79311b83e803051d3f396f2b3d43874) - **feat:** add C implementation for `stats/base/dists/chi/pdf` [(#4526)](https://github.com/stdlib-js/stdlib/pull/4526) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
 -   [`b51a457`](https://github.com/stdlib-js/stdlib/commit/b51a457474fb3527c628001639fc4e1174ed45e4) - **bench:** update random value generation [(#7010)](https://github.com/stdlib-js/stdlib/pull/7010) _(by Harsh)_
@@ -50,11 +51,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aadish Jain
 -   Harsh
 -   Karan Anand
+-   Lokesh Ranjan
 -   Philipp Burckhardt
 
 </section>
