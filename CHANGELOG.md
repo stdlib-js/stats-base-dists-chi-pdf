@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-10)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`81fd782`](https://github.com/stdlib-js/stdlib/commit/81fd7822d544bff51fccb618844e07f7edf31e8b) - **bench:** use string interpolation in `stats/base/dists/chi` [(#10171)](https://github.com/stdlib-js/stdlib/pull/10171) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
